@@ -11,7 +11,7 @@ import (
 )
 
 const YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
-const YOUTUBE_API_TOKEN = "AIzaSyD5e9JSbjVK9lTOfsQf-YaZmcgwLx2nd1w"
+const YOUTUBE_API_TOKEN = "There is token"
 const YOUTUBE_VIDEO_URL = "https://www.youtube.com/watch?v"
 
 func GetLastVideo(channelUrl string) (string, error) {
